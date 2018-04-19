@@ -17,7 +17,7 @@
 - 조호찬 "라면먹고 갈래 ??"
 - 김지윤 "" 
 - 이대명 "KotlinConf 2017 과 함꼐 코루틴 마스터!!"
-    + 블로그 포스팅 - [https://moka-a.github.io](https://moka-a.github.io/kotlin/coroutine-01/)
+    + 블로그 포스팅(아직 미완 ....) - [https://moka-a.github.io](https://moka-a.github.io/kotlin/coroutine-01/)
 - 박성일 "??" 
 - 김지윤 / 박성일 / 이대명
     + 두두 앱 기획 완료 !! - [DODO_keyscreen_jiyoon_180331.jpg](/DODO_keyscreen_jiyoon_180331.jpg)
