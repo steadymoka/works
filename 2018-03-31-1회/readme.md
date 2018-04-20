@@ -20,12 +20,14 @@
 - 조호찬 **"라면먹고 갈래 ??"**
     <br>- 라면 끓여서 먹기에 최적화면 냄비와 수저세트 - [키노트 보기](https://drive.google.com/open?id=1gjjfBh0ASOBdfX98S2XsETJvOihcrNPO)
 
-- 김지윤 **""**
+- 김지윤 **"Studio FORK"** 
+    <br>- 스튜디오 포크 로고와 페북 페이지 개설 - [fb.com/studiofork120](https://www.facebook.com/studiofork120/)
 
-- 이대명 **"KotlinConf 2017 과 함꼐 코루틴 마스터!!"**
+- 이대명 **"KotlinConf 2017 과 함께 코루틴 마스터!!"**
     <br>- 블로그 포스팅(아직 미완 ....) - [https://moka-a.github.io](https://moka-a.github.io/kotlin/coroutine-01/)
 
-- 박성일 **""**
+- 박성일 **"산학 과제"**
+    <br>- 디자인 멤버십 산학, 일러스트 20개 완성 
 
 - 김지윤 / 박성일 / 이대명
     <br>- 두두 앱 기획 완료 !! - [DODO_keyscreen_jiyoon_180331.jpg](/2018-03-31-1회/DODO_keyscreen_jiyoon_180331.jpg)
