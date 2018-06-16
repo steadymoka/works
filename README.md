@@ -26,3 +26,22 @@ Raw 버튼을 누르면 파일 소스가 보이니까 그걸로 복사해서 사
 
 - 자신이 할일 목록만 간략히 적고 싶을 때 : [샘플파일](./1970-01-01/dummy.md)
 - 자신이 한일을 길게 상세하게 적고 싶을 때 : [샘플파일](./1970-01-01/wan2land.md)
+
+## Console TIP
+
+Pull request 를 날리는 과정에서 Fork를 하게 되실텐데 다음
+명령어가 도움이 되실 겁니다.
+
+```
+# Fork 한 곳에서 clone
+git clone https://github.com/<USER_ID>/works.git
+
+# origin 을 fork 원격 저장소로, upstream 을 we-are-dodo 원격 저장소로 지정
+git remote add upstream https://github.com/we-are-dodo/works.git
+
+# fork repository 는 내가 작업할 때만 fetch 하여 사용하시면 됩니다.
+git fetch --all
+
+# --ff-only: fast-forward 가 정상적이지 않을경우 에러
+git pull --ff-only upstream master
+```
