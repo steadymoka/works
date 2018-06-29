@@ -1,4 +1,4 @@
-![DODO](https://raw.githubusercontent.com/we-are-dodo/works/master/static/logo.png)
+![DODO](https://raw.githubusercontent.com/alwaysdodo/works/master/static/logo.png)
 
 Do! What do want to do!
 매달 모여서 두두 하는 두두!
@@ -36,8 +36,8 @@ Pull request 를 날리는 과정에서 Fork를 하게 되실텐데 다음
 # Fork 한 곳에서 clone
 git clone https://github.com/<USER_ID>/works.git
 
-# origin 을 fork 원격 저장소로, upstream 을 we-are-dodo 원격 저장소로 지정
-git remote add upstream https://github.com/we-are-dodo/works.git
+# origin 을 fork 원격 저장소로, upstream 을 alwaysdodo 원격 저장소로 지정
+git remote add upstream https://github.com/alwaysdodo/works.git
 
 # fork repository 는 내가 작업할 때만 fetch 하여 사용하시면 됩니다.
 git fetch --all
