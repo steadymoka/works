@@ -4,7 +4,7 @@ name: 전창완
 
 ## DODO 홈페이지 만들기
 
-[웹사이트](https://we-are-dodo.github.io/) 제작.
+[웹사이트](https://alwaysdodo.com) 제작.
 
 다음 요구사항에 맞춰서 작업하였습니다.
 
@@ -18,5 +18,5 @@ name: 전창완
 
 ### 작업관련 소스
 
-- [웹사이트 소스](https://github.com/we-are-dodo/we-are-dodo.github.io)
-- [개개인 작업내역 소스](https://github.com/we-are-dodo/works)
+- [웹사이트 소스](https://github.com/alwaysdodo/alwaysdodo.github.io)
+- [개개인 작업내역 소스](https://github.com/alwaysdodo/works)
